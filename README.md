@@ -3,6 +3,10 @@
 
 This is a React app that allows users to search for movies, view movie details, rate movies, and keep track of their favorite movies.
 
+<h2 align = "center">
+    <img src = "demo.png"/>  
+</h2>
+
 ## Features
 
 - Search for movies by title 
